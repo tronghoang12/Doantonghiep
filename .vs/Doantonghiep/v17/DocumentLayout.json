@@ -3,15 +3,39 @@
   "WorkspaceRootPath": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|d:\\tronghoang\\phantom_knight\\doantonghiep\\assets\\scripts\\effects\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|d:\\tronghoang\\phantom_knight\\doantonghiep\\assets\\winzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|d:\\tronghoang\\phantom_knight\\doantonghiep\\assets\\scripts\\ui\\ui_ingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_ingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\ui\\ui_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\ui\\ui_fadescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_fadescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\winzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\winzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|d:\\tronghoang\\phantom_knight\\doantonghiep\\assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\effects\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300074FD-6BAB-D700-5591-19E94379ED44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +46,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI_InGame.cs",
+              "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI_InGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_InGame.cs",
+              "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI_InGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_InGame.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:49:39.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI_FadeScreen.cs",
+              "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:46:58.9Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:42:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI.cs",
+              "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAmwIYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:41:42.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI_MainMenu.cs",
+              "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:39:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save and Load\\SaveManager.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:00:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ParallaxBackground.cs",
               "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\Effects\\ParallaxBackground.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\ParallaxBackground.cs",
@@ -34,25 +133,23 @@
               "RelativeToolTip": "Assets\\Scripts\\Effects\\ParallaxBackground.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:12:40.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T09:12:40.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "WinZone.cs",
               "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\WinZone.cs",
               "RelativeDocumentMoniker": "Assets\\WinZone.cs",
               "ToolTip": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\WinZone.cs",
               "RelativeToolTip": "Assets\\WinZone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T08:08:45.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T08:08:45.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DeadZone.cs",
               "DocumentMoniker": "D:\\Tronghoang\\PhanTom_knight\\Doantonghiep\\Assets\\Scripts\\DeadZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeadZone.cs",
@@ -60,8 +157,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DeadZone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T08:08:09.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T08:08:09.508Z"
             }
           ]
         }

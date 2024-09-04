@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class UI_MainMenu : MonoBehaviour
 {
-    [SerializeField] private string sceneName = "MainScene";
+    [SerializeField] private string sceneName = "Level 1";
     [SerializeField] private GameObject continueButton;
     [SerializeField] UI_FadeScreen fadeScreen;
 
@@ -38,6 +38,6 @@ public class UI_MainMenu : MonoBehaviour
 
         yield return new WaitForSeconds(_delay);
 
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene("Level 1");
     }
 }

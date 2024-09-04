@@ -8,9 +8,9 @@ public class WinZone : MonoBehaviour
     // Start is called before the first frame update
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.GetComponent<CharacterStats>() != null)
+       if (collision.tag == "Player")
         {
-            Debug.Log("Win Game");
+            SceneManager.LoadScene(0);
         }
     }
 }
